@@ -48,7 +48,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   ![snake gif]
-(https://github.com/TienPhuc02/TienPhuc02/blob/output/github-contribution-grid-snake.gif)
+(https://github.com/TienPhuc02/git-profile/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
